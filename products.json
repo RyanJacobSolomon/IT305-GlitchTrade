@@ -1,0 +1,102 @@
+{
+  "store": "Prysm Glitch Trade",
+  "version": "1.0",
+  "products": [
+    {
+      "id": "gpu-001",
+      "name": "NVIDIA GeForce RTX 4080 Super",
+      "category": "Graphics Card (GPU)",
+      "price": "$949",
+      "condition": "Brand New / Sealed",
+      "color": "#E6E7DF",
+      "description": "Factory sealed RTX 4080 Super Founders Edition. 16GB GDDR6X, Ada Lovelace architecture, DLSS 3.5 frame generation support. Full 3-year manufacturer warranty.",
+      "imageUrl": "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=800&q=80",
+      "seller": "CyberSamurai",
+      "isSold": false
+    },
+    {
+      "id": "cpu-001",
+      "name": "AMD Ryzen 9 7950X3D",
+      "category": "Processor (CPU)",
+      "price": "$540",
+      "condition": "Like New / Pristine",
+      "color": "#E8E1D7",
+      "description": "16 cores, 32 threads with 3D V-Cache technology. Tested stable under Arctic Liquid Freezer III at 62C max load. Original box and clamshell included.",
+      "imageUrl": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=800&q=80",
+      "seller": "SiliconBeast",
+      "isSold": false
+    },
+    {
+      "id": "case-001",
+      "name": "Lian Li O11 Dynamic EVO RGB",
+      "category": "PC Case",
+      "price": "$159",
+      "condition": "Mint condition",
+      "color": "#E3DFEC",
+      "description": "Dual-chamber ATX mid-tower chassis in black. Includes integrated dual ARGB strips, reversible layout chassis, and all dust filters. Glass peel is still on!",
+      "imageUrl": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=800&q=80",
+      "seller": "GlassChassis",
+      "isSold": false
+    },
+    {
+      "id": "periph-001",
+      "name": "Wooting 60HE+ Analog Keyboard",
+      "category": "PC Peripherals",
+      "price": "$185",
+      "condition": "Barely used",
+      "color": "#DDE7EF",
+      "description": "Rapid Trigger Hall Effect gaming keyboard with Lekker Linear 60 switches. Custom lubed switches, aluminum Tofu60 Redux case swap, pristine condition.",
+      "imageUrl": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?auto=format&fit=crop&w=800&q=80",
+      "seller": "RapidTrigger",
+      "isSold": false
+    },
+    {
+      "id": "ram-001",
+      "name": "G.Skill Trident Z5 RGB 64GB DDR5-6400",
+      "category": "Memory (RAM)",
+      "price": "$210",
+      "condition": "Brand New / Sealed",
+      "color": "#DFECE8",
+      "description": "2x32GB CL32 dual kit, matte black aluminum heatspreaders with translucent RGB lightbar. Intel XMP 3.0 ready.",
+      "imageUrl": "https://images.unsplash.com/photo-1562976540-1502c2145186?auto=format&fit=crop&w=800&q=80",
+      "seller": "MemMaster",
+      "isSold": false
+    },
+    {
+      "id": "storage-001",
+      "name": "Samsung 990 PRO 4TB PCIe 4.0 NVMe",
+      "category": "Storage",
+      "price": "$280",
+      "condition": "Like New / Pristine",
+      "color": "#ECE7DF",
+      "description": "Blazing fast speeds up to 7,450 MB/s read and 6,900 MB/s write. 99% drive health verified with Samsung Magician, low TBW.",
+      "imageUrl": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=800&q=80",
+      "seller": "FastLaneStorage",
+      "isSold": false
+    },
+    {
+      "id": "psu-001",
+      "name": "Corsair RM1000x Shift ATX 3.0",
+      "category": "Power Supply Unit (PSU)",
+      "price": "$175",
+      "condition": "Mint condition",
+      "color": "#ECEADF",
+      "description": "1000 Watt 80 PLUS Gold certified fully modular PSU. Features side-mounted cable connectors and PCIe 5.0 12VHPWR native cable.",
+      "imageUrl": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?auto=format&fit=crop&w=800&q=80",
+      "seller": "WattVolt",
+      "isSold": false
+    },
+    {
+      "id": "cooler-001",
+      "name": "NZXT Kraken Elite 360 RGB AIO",
+      "category": "CPU Cooler",
+      "price": "$220",
+      "condition": "Barely used",
+      "color": "#DFECED",
+      "description": "360mm liquid cooler with customizable 2.36\" wide-angle LCD display. Includes 3x F120 RGB Core fans and CAM controller. AM5 and LGA1700 brackets included.",
+      "imageUrl": "https://images.unsplash.com/photo-1587202372616-b43abea06c2a?auto=format&fit=crop&w=800&q=80",
+      "seller": "FrostByte",
+      "isSold": false
+    }
+  ]
+}

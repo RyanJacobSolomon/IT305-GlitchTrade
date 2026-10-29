@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "624441763120",
+    "project_id": "prysm-glitch-trade",
+    "storage_bucket": "prysm-glitch-trade.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624441763120:android:a4595547b9ef4dfea494f5",
+        "android_client_info": {
+          "package_name": "com.example.prysmglitchtrade"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw584AvgNLB0TjTXnVBkWPhznj-h8ZmdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
